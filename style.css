@@ -1,0 +1,402 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800;900&display=swap');
+body{
+    background-color: #080808;
+    font-family: 'Poppins', sans-serif;
+    
+}
+.deskotop, .deskotop * {
+    box-sizing: border-box;
+    }
+.deskotop {
+    background: #080808;
+    width: 1527px;
+    height: 1647px;
+    position: absolute;
+    overflow: hidden;
+    }
+
+ .vector-1 {
+    width: 414px;
+    height: 669px;
+    position: absolute;
+    left: 1023px;
+    top: 170px;
+    overflow: visible;
+    }
+
+ .vector-3 {
+    width: 735.03px;
+    height: 419.32px;
+    position: absolute;
+    left: 707.47px;
+    top: 419.18px;
+    overflow: visible;
+    }
+
+ .vector-2 {
+    width: 377px;
+    height: 845px;
+    position: absolute;
+    left: 929px;
+    top: 0px;
+    overflow: visible;
+    }
+
+ .vector-4 {
+    width: 238.07px;
+    height: 561px;
+    position: absolute;
+    left: 2.5px;
+    top: 274px;
+    overflow: visible;
+    }
+
+ .hero-section {
+    position: absolute;
+    inset: 0;
+    }
+
+ .rectangle-3 {
+    border-radius: 40px;
+    border-style: solid;
+    border-color: #ffffff;
+    border-width: 2px;
+    width: 154px;
+    height: 48px;
+    position: absolute;
+    left: 1009px;
+    top: 79px;
+    }
+
+ .about {
+    color: #ffffff;
+    text-align: left;
+    font-family: 'Poppins-Bold', sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    position: absolute;
+    left: 864px;
+    top: 96px;
+    }
+
+ .usage {
+    color: #ffffff;
+    text-align: left;
+    font-family: 'Poppins-Bold', sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    position: absolute;
+    left: 952px;
+    top: 96px;
+    }
+
+ .contact-us {
+    color: #ffffff;
+    text-align: left;
+    font-family: 'Poppins-Bold', sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    position: absolute;
+    left: 1043px;
+    top: 96px;
+    }
+
+ .rectangle-4 {
+    background: rgba(0, 0, 0, 0.13);
+    border-radius: 100px 100px 100px 240px;
+    width: 524px;
+    height: 455px;
+    position: absolute;
+    left: 832px;
+    top: 251px;
+    }
+
+ .mask-group {
+    width: 490px;
+    height: 426px;
+    position: static;
+    }
+
+ .rectangle-5 {
+    background: transparent;
+    border-radius: 100px 100px 100px 240px;
+    width: 490px;
+    height: 426px;
+    position: absolute;
+    left: 848px;
+    top: 265px;
+    box-shadow:  0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    }
+
+ .get-paid-stock-1 {
+    background: transparent;
+    border-radius: 100px 100px 100px 240px;
+    width: 490px;
+    height: 426px;
+    position: absolute;
+    left: 832px;
+    top: 251px;
+    }
+
+ .countless-boots {
+    color: #ffffff;
+    text-align: left;
+    font-size: 46px;
+    font-weight: 700;
+    position: absolute;
+    left: 84px;
+    top: 359px;
+    }
+
+ .make-your-life-easier-with {
+    color: #8176AF;
+    text-align: left;
+    font-size: 46px;
+    font-weight: 700;
+    position: absolute;
+    left: 84px;
+    top: 299px;
+    }
+
+.make-your-life-easier-with-span {
+    color: linear-gradient(91.57deg, rgba(192, 183, 232, 1.00) 0%,rgba(129, 118, 175, 1.00) 100%);
+    font-size: 46px;
+    font-weight: 700;
+    }
+
+.make-your-life-easier-with-span2 {
+    color: #ffffff;
+    font-size: 46px;
+    font-weight: 700;
+    }
+
+ .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-nisl-tincidunt-eget-lectus-mauris-eros-in-vitae {
+    color: #ffffff;
+    text-align: left;
+    font-size: 16px;
+    font-weight: 400;
+    position: absolute;
+    left: 84px;
+    top: 451px;
+    }
+
+ .rectangle-52 {
+    background: linear-gradient(90deg, rgba(129, 118, 175, 1.00) 0%,rgba(192, 183, 232, 1.00) 100%);
+    border-radius: 40px;
+    width: 214px;
+    height: 48px;
+    position: absolute;
+    left: 84px;
+    top: 589px;
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+    }
+
+ .vector-7 {
+    width: 1449px;
+    height: 256.68px;
+    position: absolute;
+    left: -6.5px;
+    top: 1268.32px;
+    overflow: visible;
+    }
+
+ .vector-8 {
+    width: 1445px;
+    height: 211.75px;
+    position: absolute;
+    left: -4.5px;
+    top: 1553.82px;
+    overflow: visible;
+    }
+
+ .about-section {
+    position: absolute;
+    inset: 0;
+    }
+
+ .introduction {
+    color: #ffffff;
+    text-align: left;
+    font-size: 36px;
+    font-weight: 700;
+    position: absolute;
+    left: 71px;
+    top: 802px;
+    }
+
+ .ro-botting {
+    color: #ffffff;
+    text-align: left;
+    font-size: 36px;
+    font-weight: 300;
+    position: absolute;
+    left: 71px;
+    top: 856px;
+    }
+
+ .who-are {
+    color: #ffffff;
+    text-align: left;
+    font-size: 36px;
+    font-weight: 700;
+    position: absolute;
+    left: 712px;
+    top: 1047px;
+    }
+
+ .we {
+    color: rgba(255, 255, 255, 0.95);
+    text-align: left;
+    font-size: 36px;
+    font-weight: 300;
+    position: absolute;
+    left: 712px;
+    top: 1096px;
+    }
+
+ .vitae-sapien-pellentesque-habitant-morbi-tristique-senectus-et-netus-et-feugiat-nibh-sed-pulvinar-proin-gravida-hendrerit-lectus-mi-sit-amet-mauris-commodo-quis-imperdiet-massa-tincidunt-nunc-viverra-aliquet-eget-sit-amet-tellus-ornare-lectus-sit-amet-est-placerat-in-lectus-magna-fringilla-urna-porttitor-rhoncus-vitae {
+    color: #ffffff;
+    text-align: left;
+    font-size: 16px;
+    font-weight: 400;
+    position: absolute;
+    left: 691px;
+    top: 798px;
+    }
+
+ .eget-mi-proin-sed-libero-enim-sed-faucibus-turpis-nisl-rhoncus-mattis-rhoncus-urna-neque-viverra-justo-vivamus-at-augue-eget-arcu-dictum-ultrices-gravida-dictum-fusce-ut-placerat-orci-aenean-et-tortor-at-risus-viverra-adipiscing-at-in-mattis-aliquam-faucibus-purus-in-massa-est-placerat-in-egestas-erat-imperdiet-sed-consequat-semper-viverra-nam-libero-justo-laoreet-sit-amet-aliquam-etiam-erat-velit-scelerisque-in-dictum-non-consectetur-a-laoreet-sit-amet-cursus-sit-amet-vel-eros-donec-ac-odio-tempor-orci-dapibus-sem-nulla-pha-retra-diam-sit-amet-nisl-suscipit-adipiscing-bibendum-leo-a-diam-sollicitudi-n-tempor {
+    color: #ffffff;
+    text-align: left;
+    font-size: 16px;
+    font-weight: 400;
+    position: absolute;
+    left: 713px;
+    top: 1182px;
+    }
+
+ .mask-group2 {
+    width: 524px;
+    height: 557px;
+    position: static;
+    }
+
+ .rectangle-53 {
+    background: transparent;
+    border-radius: 100px 240px 100px 240px;
+    width: 524px;
+    height: 557px;
+    position: absolute;
+    left: 595px;
+    top: 997px;
+    box-shadow:  0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(-1, 1);
+    }
+
+ .pexels-shvets-production-7562014-1 {
+    border-radius: 100px 240px 100px 240px;
+    width: 524px;
+    height: 557px;
+    position: absolute;
+    left: 59px;
+    top: 1000px;
+    }
+
+ .rectangle-7 {
+    background: linear-gradient(90deg, rgba(129, 118, 175, 1.00) 0%,rgba(192, 183, 232, 1.00) 100%);
+    border-radius: 40px;
+    width: 214px;
+    height: 48px;
+    position: absolute;
+    left: 713px;
+    top: 1438px;
+    }
+
+ .let-s-get-in-touch {
+    color: #343045;
+    text-align: left;
+    font-size: 12px;
+    font-weight: 700;
+    position: absolute;
+    left: 752px;
+    top: 1455px;
+    }
+
+ .component-1 {
+    width: 228px;
+    height: 100px;
+    position: absolute;
+    left: 352px;
+    top: 828px;
+    }
+
+ .outline-arrow-small-right {
+    height: auto;
+    position: absolute;
+    right: 0%;
+    left: 56.14%;
+    width: 43.86%;
+    bottom: 0%;
+    top: 0%;
+    height: 100%;
+    overflow: visible;
+    }
+
+ .vector-11 {
+    height: auto;
+    position: absolute;
+    right: 30.92%;
+    left: 0%;
+    width: 69.08%;
+    bottom: 50%;
+    top: 50%;
+    height: 0%;
+    overflow: visible;
+    }
+
+ .vector-14 {
+    width: 1442px;
+    height: 814px;
+    position: absolute;
+    left: -3px;
+    top: 2187px;
+    overflow: visible;
+    }
+
+ .vector-15 {
+    width: 1449px;
+    height: 163px;
+    position: absolute;
+    left: -9px;
+    top: 3665px;
+    overflow: visible;
+    }
+
+ .vector-18 {
+    width: 1437px;
+    height: 263.99px;
+    position: absolute;
+    left: 2.5px;
+    top: 5165px;
+    overflow: visible;
+    }
+
+ .vector-19 {
+    width: 1435px;
+    height: 363px;
+    position: absolute;
+    left: 4.5px;
+    top: 4886px;
+    overflow: visible;
+    }
+
+ .rectangle-29 {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    left: 102px;
+    top: 76px;
+    object-fit: cover;
+    }
+
